@@ -1,0 +1,14 @@
+npm install -g create-react-app
+npm cache clean --force
+ create-react-app hello-world
+
+You can use the ternary expression but not if else statements
+You can use Single line comment{
+				//
+				} 
+and Multi Line comment{/**/} in JSX
+
+props have been removed from React library and have been given a separate library
+
+To use react-router we can install only react-router-dom and router is now called BrowseRouter but we can import it as Router
+The paths that are registered with react can understand by themselves which are children and act accoringly first we needed to specify {this.props.children}
